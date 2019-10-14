@@ -1,0 +1,6 @@
+{% load static %}
+
+img {
+	background-image: url("img/testImage.png");
+	min-height: 300px;
+}
